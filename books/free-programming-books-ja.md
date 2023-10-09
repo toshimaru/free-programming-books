@@ -277,6 +277,7 @@
 * [苦しんで覚えるＣ言語](https://9cguide.appspot.com) - MMGames/森口将憲
 * [計算物理のためのC/C++言語入門](http://cms.phys.s.u-tokyo.ac.jp/~naoki/CIPINTRO) - 渡辺尚貴
 * [猫でもわかるプログラミング](http://kumei.ne.jp/c_lang) - 粂井康孝
+* [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook) - Rui Ueyama
 
 
 ### <a id="cpp"></a>C++
